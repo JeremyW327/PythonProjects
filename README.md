@@ -1,2 +1,2 @@
 # PythonProjects
-Learning python and uploading the project i complete
+Learning python and uploading the projects I complete.
